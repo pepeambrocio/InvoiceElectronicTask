@@ -1,0 +1,12 @@
+
+**** Trace Opened Local: 2018-10-24 13:12:05.043 UTC: 2018-10-24 18:12:05.043 ****
+
+  2018-10-24 13:12:05 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Iniciando Proceso de Facturación, ProcessType:  ProcessType : 4 , IdPeriod: 188, CountryCode: MX, CarrierCode Q6
+  2018-10-24 13:12:05 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Total Registros a procesar: 0
+  2018-10-24 13:12:05 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Registros procesador en Tarea: 0
+  2018-10-24 13:12:05 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Verificando si existen procesos en cola...
+  2018-10-24 13:12:06 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Iniciando Proceso de Facturación, ProcessType:  ProcessType : 4 , IdPeriod: 188, CountryCode: MX, CarrierCode Y4
+  2018-10-24 13:12:06 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Total Registros a procesar: 0
+  2018-10-24 13:12:06 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Registros procesador en Tarea: 0
+  2018-10-24 13:12:06 [1] INFO  InvoiceElectronicTask.AsyncDbExecutebyFile - Verificando si existen procesos en cola...
+**** Trace Closed 2018-10-24 13:12:07.156 ****

@@ -1,0 +1,13 @@
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\InvoiceElectronicTask.exe.config
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\log4net.config
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\InvoiceElectronicTask.exe
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\InvoiceElectronicTask.pdb
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\AsyncEnumerable.dll
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\Dapper.dll
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\log4net.dll
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\AsyncEnumerable.xml
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\Dapper.xml
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\bin\Debug\log4net.xml
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\obj\Debug\InvoiceElectronicTask.csprojResolveAssemblyReference.cache
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\obj\Debug\InvoiceElectronicTask.exe
+D:\Linko\Development\Workspaces\Volaris\Facturacion\InvoiceElectronicTask\InvoiceElectronicTask\obj\Debug\InvoiceElectronicTask.pdb
